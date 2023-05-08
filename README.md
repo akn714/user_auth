@@ -1,2 +1,12 @@
 # user_auth
-Notes of user auth in web apps
+## Prerequisites
+* Node js
+* Express js framework
+* MongoDB
+* JS and asynchronous programming
+    * Promises
+    * Callback
+    * Async / Await
+* Cookies
+* Request headers
+* Middlewares
