@@ -10,3 +10,14 @@
 * Cookies
 * Request headers
 * Middlewares
+
+## Cookies
+* get
+* set
+* expires
+## Headers
+* general
+* request
+* response
+
+
