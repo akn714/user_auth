@@ -18,12 +18,9 @@
 ## Headers
 * general
 * request
-* response
+* respons
 ## asynchronous programming
-
-
 * callbacks
-
 * promises
 * async
 * await
