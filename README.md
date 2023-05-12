@@ -8,7 +8,7 @@
     * Callback
     * Async / Await
 * Cookies
-* Request headers
+* Headers
 * Middlewares
 
 ## Cookies
