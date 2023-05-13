@@ -22,6 +22,8 @@
 ## asynchronous programming
 * callbacks
 * promises
+    * .then()
+    * .catch()
 * async
 * await
 
