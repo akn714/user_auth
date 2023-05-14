@@ -1,4 +1,5 @@
 # user_auth
+
 ## Prerequisites
 * Node js
 * Express js framework
@@ -15,10 +16,12 @@
 * get
 * set
 * expires
+
 ## Headers
 * general
 * request
 * respons
+
 ## asynchronous programming
 * callbacks
 * promises
@@ -27,4 +30,10 @@
 * async
 * await
 
+## Middlewares
+* application level
+* router level
+* built-in
+* error-handling
+* third-party
 
