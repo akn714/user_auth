@@ -16,18 +16,18 @@
 
 ## User Authentication Choices
 ```
-                    User Authentication Choices
-                                |
-    -------------------------------------------------------
-    |              |                  |                   |
- session     JSON Web Tokens        OAuth            Other / Ad-Hoc
-                                      |
-                               ---------------     
-                               |             |
-                           In-house         SaaS
+                                    User Authentication Choices
+                                                |
+               ------------------------------------------------------------
+               |                 |                    |                   |
+            session       JSON Web Tokens           OAuth            Other / Ad-Hoc
+                                                      |
+                                               ---------------     
+                                               |             |
+                                           In-house         SaaS
 
 
-    --------------------- Complexity ---------------------->
+               ------------------------ Complexity ------------------------>
 ```
 
 
