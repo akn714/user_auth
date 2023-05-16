@@ -1,5 +1,7 @@
 # user_auth
 
+
+
 ## Prerequisites
 * Node js
 * Express js framework
@@ -11,6 +13,20 @@
 * Cookies
 * Headers
 * Middlewares
+
+
+```
+                    User Authentication Choices
+                                |
+    -------------------------------------------------------
+    |           |                   |                     |
+session     JSON Web Tokens      OAuth              Other / Ad-Hoc
+                                    |
+                             ---------------     
+                             |             |
+                        In-house          SaaS
+```
+
 
 ## Cookies
 * get
