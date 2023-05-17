@@ -1,7 +1,6 @@
 # user_auth
 
 
-
 ## Prerequisites
 * Node js
 * Express js framework
@@ -29,6 +28,12 @@
 
                ------------------------ Complexity ------------------------>
 ```
+
+
+## authentication strategy userd
+``` from passport.js ```
+* passport jwt
+* passport local
 
 
 ## Cookies
