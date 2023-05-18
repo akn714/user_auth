@@ -30,7 +30,7 @@
 ```
 
 
-## authentication strategy userd
+## authentication strategy used
 ``` from passport.js ```
 * passport jwt
 * passport local
